@@ -3,9 +3,7 @@ const urlsToCache = [
     '/cpApp/',
     '/cpApp/index.html',
     '/cpApp/style.css',
-    '/cpApp/script.js',
-    '/cpApp/dosagem/index.html',
-    '/cpApp/exames/index.html'
+    '/cpApp/script.js'
 ];
 
 self.addEventListener('install', (event) => {

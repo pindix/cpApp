@@ -2,7 +2,7 @@
     "name": "Mpindi TecMed",
     "short_name": "TecMed",
     "description": "Suporte de decisão clínica para profissionais de saúde",
-    "start_url": "/cp app/index.html",
+    "start_url": "/cpApp/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#00843d",

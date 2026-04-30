@@ -1,7 +1,7 @@
 {
     "name": "Mpindi TecMed",
     "short_name": "TecMed",
-    "description": "Suporte de decisão clínica para profissionais de saúde",
+    "description": "Suporte de decisão clínica para profissionais de saúde. Calculadora de dosagem, interpretador de exames e ferramentas médicas baseadas em padrões OMS e MSF.",
     "start_url": "/cpApp/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
